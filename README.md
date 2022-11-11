@@ -44,3 +44,29 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+Header Component
+![ne](https://user-images.githubusercontent.com/82499697/201288257-98ba1b80-e9ae-4f30-a1de-8cacd3b2f7f0.jpg)
+
+Home page 
+![n1](https://user-images.githubusercontent.com/82499697/201288633-bf31c098-849a-4f92-83e5-0995577c7206.png)
+
+SignUp page
+
+![n2 jpg](https://user-images.githubusercontent.com/82499697/201290423-2e1c4b1e-6f06-45f7-ac23-44a5a9f8de44.png)
+
+Main page
+
+![n3](https://user-images.githubusercontent.com/82499697/201290655-1d1606ba-42cd-4194-8b92-a9d12e5276fa.png)
+
+Plans page
+![n4](https://user-images.githubusercontent.com/82499697/201290917-da5ab344-b726-431a-9124-9aaea3865130.png)
+
+Payment Gatway by using Stripe 
+![n5](https://user-images.githubusercontent.com/82499697/201291215-673cd4fd-126e-4aa1-8e3f-5a73b57e18fc.png)
+
+
+
+
+
+
