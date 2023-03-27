@@ -6,6 +6,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
+      <h6>PERSONAL t</h6>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <Counter />
